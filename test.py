@@ -1,0 +1,2 @@
+from InstructorEmbedding import INSTRUCTOR
+from langchain.embeddings import HuggingFaceInstructEmbeddings
